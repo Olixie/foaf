@@ -26,12 +26,12 @@
 <foaf:Person>
 <foaf:name>Patryk</foaf:name>
 <foaf:mbox_sha1sum>cbb29cca4c9ecc5af0ba4315a0ac28651271fb8c</foaf:mbox_sha1sum>
-<rdfs:seeAlso rdf:resource="http://www.example.com/patryk.xrdf"/></foaf:Person></foaf:knows>
+<rdfs:seeAlso rdf:resource="https://zespolowyeeg.github.io/FOAF/"/></foaf:Person></foaf:knows>
 <foaf:knows>
 <foaf:Person>
 <foaf:name>Łukasz</foaf:name>
 <foaf:mbox_sha1sum>e71e62b58789d390fa314612913418592be89866</foaf:mbox_sha1sum>
-<rdfs:seeAlso rdf:resource="http://www.example.com/lukasz.xrdf"/></foaf:Person></foaf:knows>
+<rdfs:seeAlso rdf:resource="https://lukaszwydrzynski.github.io/PDS/"/></foaf:Person></foaf:knows>
 <foaf:knows>
 <foaf:Person>
 <foaf:name>Joanna</foaf:name>
